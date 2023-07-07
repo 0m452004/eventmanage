@@ -1,1 +1,1 @@
-# eventmanage
+# COLLEGE-EVENTS-MANAGEMENT-WEBSITE
